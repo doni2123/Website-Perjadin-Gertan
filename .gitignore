@@ -1,0 +1,1 @@
+# config.js contains only the public publishable key and must be present in the static deployment. Never add service_role/secret keys.
